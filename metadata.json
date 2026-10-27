@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Dermatológica Dra. Isabella Rossi",
+  "description": "Aplicativo para agendamento de consultas dermatológicas com pagamento antecipado, vitrine de produtos e tratamentos, portfólio clínico e hub médico com sincronização com o Google Agenda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
